@@ -1,0 +1,3 @@
+[submodule "timeflux_influx"]
+	path = timeflux_influx
+	url = https://github.com/JeaSoup/timeflux_influx.git
